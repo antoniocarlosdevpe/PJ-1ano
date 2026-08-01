@@ -23,7 +23,4 @@ PJ-1ano/
 ├── animations.js
 └── README.md
 ```
-
-## 👨‍💻 Autor
-
-Desenvolvido por **Antônio Carlos** ❤️
+Desenvolvido por **Antônio Carlos** 
